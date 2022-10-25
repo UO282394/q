@@ -1,7 +1,7 @@
 body{
     display : grid;
     grid-template-areas: 
-    '. navegador navegador navegador .'
+    'navegador navegador navegador navegador navegador'
     'cabecera cabecera cabecera cabecera cabecera'
     'contenido contenido contenido contenido .'
     'pie pie pie pie .'
